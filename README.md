@@ -11,6 +11,7 @@
 名稱 | 官網 | 公司所在地
 ------------ | ------- | -------
 卡米爾資訊 | http://cameo.tw/bigdata/ | 台北市中正區
+KKTIX | https://jobs.kktix.cc/ | 台北市大安區
 [範例公司2](/company-profiles/example.md) | https://github.com/ | 台北市信義區
 [範例公司3](/company-profiles/example.md) | https://github.com/ | 新北市中和區
 範例公司4 | https://github.com/ |
