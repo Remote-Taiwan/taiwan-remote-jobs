@@ -10,8 +10,7 @@
 
 名稱 | 官網 | 公司所在地
 ------------ | ------- | -------
-[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
-45royale | http://45royale.com/ |
-[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
+[範例公司1](/company-profiles/example.md) | https://github.com/ | 台北市信義區
+[範例公司2](/company-profiles/example.md) | https://github.com/ | 台北市中正區
+[範例公司3](/company-profiles/example.md) | https://github.com/ | 新北市中和區
+範例公司4 | https://github.com/ |
