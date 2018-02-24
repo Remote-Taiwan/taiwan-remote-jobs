@@ -1,29 +1,29 @@
-# Example Company
+# 範例公司
 
-## Company blurb
+## 公司簡介
 
-Insert a little bit about your company here.
+請簡單介紹一下這間公司。
 
-## Company size
+## 公司大小
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+大概說明一下公司目前有多少成員。0-20, 20-50, 50-100, 100-200, etc.
 
-## Remote status
+## 遠程工作狀態
 
-Explain a bit about your remote culture here.
+描述一下公司的遠程工作文化。
 
-## Region
+## 區域要求
 
-Is your company open to US-based remote employees only? Other countries? Worldwide? Explain here.
+員工一定要待在同個縣市嗎？一定要待在台灣嗎？外國人士歡迎嗎？請稍微說明。
 
-## Company technologies
+## 公司用到的技術工具
 
-Insert some of the technologies used in your company here.
+說明一下公司目前用到哪些程式語言、工具。
 
-## Office Locations
+## 辦公室地址
 
-Insert your physical office locations here.
+公司的實際地址。
 
-## How to apply
+## 如何應徵
 
-Insert a specific webpage, email, or instructions to apply.
+網址、Email，或是其他資訊。
